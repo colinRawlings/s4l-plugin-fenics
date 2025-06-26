@@ -1,7 +1,7 @@
 site_name: Sim4Life FEniCS Plugin
 site_description: Documentation and examples for the Sim4Life FEniCS plugin
 site_author: Your Name
-repo_url: https://github.com/your-org/s4l-plugin-fenics
+repo_url: https://github.com/colinrawlings/s4l-plugin-fenics
 repo_name: GitHub
 docs_dir: .
 site_dir: ../site
