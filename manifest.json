@@ -5,7 +5,7 @@
     "version" : "1.0.0",
     "sim4life" : "9.0.0",
     "author" : "Colin Rawlings",
-    "author_email" : "guidon@zmt.swiss",
+    "author_email" : "Colin.d.Rawlings@gmail.com",
     "details" : "README.md",
     "license" : "LICENSE",
     "tags" : ["Multi Physics", "Partial Differential Equations"],
