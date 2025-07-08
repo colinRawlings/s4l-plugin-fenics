@@ -77,8 +77,9 @@ The Sim4Life FEniCS plugin supports several categories of equations, each tailor
 
 | Example                | Category      | Physics/Equation Type                |
 |------------------------|--------------|--------------------------------------|
-| Harmonic Oscillator    | PDE          | Quantum mechanics, eigenvalue problem|
 | Magnetic Dipole        | PDE/Weak Form| Magnetostatics, Poisson’s equation   |
+| Non-Linear Joule Heating | PDE.       | Electrical and Thermal Transport.    |
+| Harmonic Oscillator    | PDE          | Quantum mechanics, eigenvalue problem|
 | Quantum Tunneling      | PDE          | Time-dependent Schrödinger equation  |
 | Stokes Flow            | Weak Form    | Fluid dynamics, Stokes equations     |
 | Deformed Cantilever    | Solid Mechanics | Thermoelasticity, linear elasticity   |
@@ -97,8 +98,9 @@ The Sim4Life FEniCS plugin supports several categories of equations, each tailor
 
 ## Examples
 
-- [Harmonic Oscillator: Quantum Eigenvalues](examples/harmonic_oscillator/README.md)
 - [Magnetic Dipole: Magnetized Sphere](examples/magnetic_dipole/README.md)
+- [Non-Linear Joule Heating](examples/nonlinear_joule_heating/README.md)
+- [Harmonic Oscillator: Quantum Eigenvalues](examples/harmonic_oscillator/README.md)
 - [Quantum Tunneling](examples/quantum_tunneling/README.md)
 - [Stokes Flow Past a Sphere](examples/stokes_flow/README.md)
 - [Deformed Cantilever: Thermoelastic Beam](examples/deformed_cantilever/README.md)
