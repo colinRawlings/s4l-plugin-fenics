@@ -28,10 +28,11 @@ theme:
 nav:
   - Home: index.md
   - Examples:
+      - Non-Linear Joule Heating: examples/nonlinear_joule_heating/README.md
+      - Magnetic Dipole: examples/magnetic_dipole/README.md
       - Quantum Tunneling: examples/quantum_tunneling/README.md
       - Harmonic Oscillator: examples/harmonic_oscillator/README.md
       - Stokes Flow: examples/stokes_flow/README.md
-      - Magnetic Dipole: examples/magnetic_dipole/README.md
       - Deformed Cantilever: examples/deformed_cantilever/README.md
 markdown_extensions:
   - admonition
